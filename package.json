@@ -1,0 +1,25 @@
+{
+  "name": "projetnode",
+  "version": "1.0.0",
+  "description": "projetnode",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeremyToussaint/nodeproject.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "EFJ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeremyToussaint/nodeproject/issues"
+  },
+  "homepage": "https://github.com/JeremyToussaint/nodeproject#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
