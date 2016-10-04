@@ -1,19 +1,18 @@
 {
   "name": "projetnode",
   "version": "1.0.0",
-  "description": "projetnode",
+  "description": "projet node avec Mr Adrien",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+	"test": "echo \"Error: no test specified\" && exit 1",
+	"start": "node app.js"
   },
+  "private": true,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/JeremyToussaint/nodeproject.git"
   },
-  "keywords": [
-    "node"
-  ],
-  "author": "EFJ",
+  "author": "Fabien VIROT; Eva ROBERT; Jeremy TOUSSAINT",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/JeremyToussaint/nodeproject/issues"
