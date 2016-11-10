@@ -1,3 +1,5 @@
 {
-	"port": 1337
+	"port": 1337,
+	"contentDirectory": "/fs03/share/users/fabien.virot/home/Cours Mr Adrien/nodeproject/uploads",
+	"presentationDirectory": "/fs03/share/users/fabien.virot/home/Cours Mr Adrien/nodeproject/presentation_content"
 }
